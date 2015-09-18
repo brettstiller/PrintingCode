@@ -5,7 +5,7 @@ var r = new Rune({
   debug: true
 });
 
-r.circle(400,300,100,100)
+r.ellipse(400,300,200,200)
 	.fill(0)
 	.stroke(0)
 
