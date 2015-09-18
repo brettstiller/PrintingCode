@@ -13,7 +13,7 @@ r.rect(290,340,170,80)
 	.fill(255)
 	.stroke(false)
 
-r.triangle(300, 350, 300, 650, 450, 350)
+r.triangle(300, 350, 300, 625, 450, 350)
   	.fill(0)
   	.stroke(0)
 
