@@ -1,4 +1,4 @@
-var r = new Rune({
+lvar r = new Rune({
   container: "#canvas",
   width: 800,
   height: 1035.29,
