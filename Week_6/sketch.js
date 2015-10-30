@@ -6,7 +6,7 @@ var r = new Rune({
 })
 
 r.rect(0,0,r.width,r.height)
-.fill(255,28,0)
+.fill(191,6,0)
 .stroke(false)
 
 
