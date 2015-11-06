@@ -17,12 +17,12 @@ var ribbon = r.path(400,200)
 	.curveTo(bezierX, bezierY,50,0)
 	.closePath()
 
-	.fill(51,86,127) 	//MAINSTAGE
+	.fill(51,86,127) 		//MAINSTAGE
 	.stroke(false)
 
-	//.fill(77,128,191) 	//DEVELOPMENT
+	//.fill(77,128,191) 		//DEVELOPMENT
 
-	//.fill(false) 		//EDUCATION
+	//.fill(false) 			//EDUCATION
 	
 
 var text = r.group(200,0)
