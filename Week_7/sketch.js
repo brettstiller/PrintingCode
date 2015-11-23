@@ -1,3 +1,4 @@
+
 var r = new Rune({
   container: "#canvas",
   width: 800,
@@ -55,4 +56,3 @@ var company = r.text("Company",100,275,text)
 //.stroke(255,255,0) 	
 
 r.draw();
-
